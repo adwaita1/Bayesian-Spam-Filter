@@ -32,8 +32,6 @@ You will have to uncomment the last few lines in the script Classifier.py. Then 
 python SpamClassifier.py
 ```
 
-and you should be good to go.
 
-As always, feel free to contact me at ankarathaashish@gmail.com for suggestions for improvement or bug reports. Thank you!!
 
 
